@@ -1,13 +1,14 @@
 {
-  "name": "duotone-syntax",
+  "name": "duotone-darksky",
   "theme": "syntax",
   "version": "1.0.0",
-  "description": "Master template for DuoTone syntax themes",
+  "description": "A neutral dark syntax theme",
   "keywords": [
+    "dark",
     "duotone",
     "syntax"
   ],
-  "repository": "https://github.com/simurai/duotone-syntax",
+  "repository": "https://github.com/helenqu/duotone-darksky",
   "license": "MIT",
   "engines": {
     "atom": ">1.0.0"
