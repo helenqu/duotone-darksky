@@ -1,8 +1,8 @@
-# DuoTone Darksky
+# duotone darksky
 
-A double-hue syntax theme for Atom based on [duotone-syntax](https://github.com/simurai/duotone-syntax).
+A double-hue syntax theme for Atom based on [duotone-syntax](https://github.com/helenqu/duotone-darksky).
 
-![duotone](https://cloud.githubusercontent.com/assets/378023/11769688/753483be-a230-11e5-9193-51db5e77ce6b.png)
+![duotone](https://www.dropbox.com/s/lsajnpkzr8nig0r/Screenshot%202016-04-29%2000.14.33.png?dl=0)
 
 DuoTone themes use only 2 hues (7 shades in total). It __tones down__ less important parts (like punctuation and brackets) and highlights only the __important__ ones. This leads to a more calm color scheme, but still lets you find what you're looking for.
 
