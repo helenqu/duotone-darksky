@@ -1,4 +1,4 @@
-# DuoTone Darksky
+# duotone darksky
 
 A double-hue syntax theme for Atom based on [duotone-syntax](https://github.com/simurai/duotone-syntax).
 
